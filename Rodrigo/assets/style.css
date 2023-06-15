@@ -96,4 +96,6 @@ footer>p{
 article>section{
     border-style: dashed;
     border-radius: 10%;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color:red;
 }
